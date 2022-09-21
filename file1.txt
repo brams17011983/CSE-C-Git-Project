@@ -1,2 +1,3 @@
 this is the first file with some additional changes
-this is second line
+this is second line new modification
+this is third line
